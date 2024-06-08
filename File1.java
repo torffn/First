@@ -1,4 +1,4 @@
 
 public class File1 {
-int x;
+int x=52;
 }
